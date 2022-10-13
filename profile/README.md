@@ -1,4 +1,4 @@
-## Hi there! You're here too? Welcome to py-universe ⚡🚀
+## Hi there! You're here too? Welcome to code-universe ⚡🚀
 
 🙋‍♀️ **code-universe** is a community of budding Software Engineers and Designers who love to create cool stuff.
 
